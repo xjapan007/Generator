@@ -1,9 +1,8 @@
-# Générateur de Combos RGB Pro
+# Générateur de Combos
 
 Un outil de bureau (créé avec Tkinter) pour générer des listes de combinaisons "utilisateur:mot de passe" (combos) avec de nombreuses options de personnalisation.
 
 ![Image de l'application](https://i.imgur.com/siEtCNx.png)
-*(Pensez à remplacer ce texte par une vraie capture d'écran de votre application !)*
 
 ---
 
@@ -31,7 +30,7 @@ Il y a deux façons d'utiliser cet outil :
 ### 1. Version Exécutable (.exe)
 
 Vous pouvez télécharger la dernière version compilée (le fichier `.exe`) directement depuis la [section Releases](https://github.com/xjapan007/Generator/releases) de ce dépôt.
-*(Vous devrez uploader votre .exe dans la section "Releases" de GitHub pour que cela fonctionne)*
+
 
 ### 2. Depuis le code source
 
@@ -66,3 +65,17 @@ Si vous avez Python installé, vous pouvez lancer le script directement.
 ## 🤝 Contribution
 
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une *issue* pour signaler un bug ou proposer une amélioration, ou à soumettre une *pull request*.
+
+
+## 🤝 How to Contribute
+
+1.  **Fork** this repository.
+2.  Create a new branch (`git checkout -b feature/my-new-feature` or `bugfix/fix-the-crash`).
+3.  Make your changes.
+4.  **Submit a Pull Request** with a clear description of what you've done.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.

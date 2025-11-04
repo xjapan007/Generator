@@ -67,12 +67,11 @@ Si vous avez Python installé, vous pouvez lancer le script directement.
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une *issue* pour signaler un bug ou proposer une amélioration, ou à soumettre une *pull request*.
 
 
-## 🤝 How to Contribute
+## ❤️ Soutenir le projet
 
-1.  **Fork** this repository.
-2.  Create a new branch (`git checkout -b feature/my-new-feature` or `bugfix/fix-the-crash`).
-3.  Make your changes.
-4.  **Submit a Pull Request** with a clear description of what you've done.
+Si ce projet vous est utile et que vous souhaitez me remercier, vous pouvez m'offrir un café !
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P21NKY2H)
 
 ---
 

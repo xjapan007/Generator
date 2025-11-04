@@ -1,0 +1,24 @@
+# Fichiers et dossiers de PyInstaller (pour l'EXE)
+/build/
+/dist/
+*.spec
+
+# Cache et fichiers compilés Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+*.env
+
+# Fichiers système (macOS et Windows)
+.DS_Store
+Thumbs.db
+
+# Fichiers de configuration d'IDE
+.idea/
+.vscode/
